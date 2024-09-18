@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahsan
 - 👀 I’m interested in deep learning and robotics
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning how to build intelligent autonomous system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
