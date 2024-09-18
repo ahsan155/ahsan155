@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahsan
-- 👀 I’m interested in app development and Machine Learning
+- 👀 I’m interested in deep learning and robotics
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
